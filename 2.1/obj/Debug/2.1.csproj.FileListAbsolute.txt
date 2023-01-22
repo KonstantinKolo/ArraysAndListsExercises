@@ -1,0 +1,7 @@
+D:\DomashnaRabota\ArraysAndListsExercises\2.1\bin\Debug\2.1.exe.config
+D:\DomashnaRabota\ArraysAndListsExercises\2.1\bin\Debug\2.1.exe
+D:\DomashnaRabota\ArraysAndListsExercises\2.1\bin\Debug\2.1.pdb
+D:\DomashnaRabota\ArraysAndListsExercises\2.1\obj\Debug\2.1.csproj.AssemblyReference.cache
+D:\DomashnaRabota\ArraysAndListsExercises\2.1\obj\Debug\2.1.csproj.CoreCompileInputs.cache
+D:\DomashnaRabota\ArraysAndListsExercises\2.1\obj\Debug\2.1.exe
+D:\DomashnaRabota\ArraysAndListsExercises\2.1\obj\Debug\2.1.pdb

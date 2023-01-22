@@ -1,0 +1,6 @@
+D:\DomashnaRabota\ArraysAndListsExercises\2.5\obj\Debug\2.5.csproj.CoreCompileInputs.cache
+D:\DomashnaRabota\ArraysAndListsExercises\2.5\bin\Debug\2.5.exe.config
+D:\DomashnaRabota\ArraysAndListsExercises\2.5\bin\Debug\2.5.exe
+D:\DomashnaRabota\ArraysAndListsExercises\2.5\bin\Debug\2.5.pdb
+D:\DomashnaRabota\ArraysAndListsExercises\2.5\obj\Debug\2.5.exe
+D:\DomashnaRabota\ArraysAndListsExercises\2.5\obj\Debug\2.5.pdb
